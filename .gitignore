@@ -6,4 +6,4 @@ __pycache__/
 /minGPT.egg-info/
 /.venv/
 /.idea/
-/projects/adder/out/
+/adder/out/**

@@ -23,7 +23,7 @@ def get_config():
     # system
     C.system = CN()
     C.system.seed = 3407
-    C.system.work_dir = './out/adder'
+    C.system.work_dir = 'out/adder'
 
     # data
     C.data = AdditionDataset.get_default_config()
